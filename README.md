@@ -9,7 +9,7 @@ Uzstādīšana:
 1. Pirms programmas lietošanas pārbaudīt, vai ir ielādēta atbilstoša python versija (3.13)
 To var pārbaudīt ar kodu python --version
 2. Instalēt ārējo bibliotēku: python -m pip install requests
-3. Lejupielādē projektu no GitHub:
+3. Lejupielādē projektu no GitHub: https://github.com/luizebuize/produkts.git
 4. Palais programmu mervienibas.py 
 
 Funkciju apraksts:
