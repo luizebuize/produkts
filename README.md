@@ -10,7 +10,7 @@ Uzstādīšana:
 To var pārbaudīt ar kodu python --version
 2. Instalēt ārējo bibliotēku: python -m pip install requests
 3. Lejupielādē projektu no GitHub: https://github.com/luizebuize/produkts.git
-4. Palais programmu mervienibas.py 
+4. Palaist programmu mervienibas.py 
 
 Funkciju apraksts:
 Mērvienību pārveidotājs (Unit converter) spēj pārveidot dažādas mērvienības, lai būtu ērtāk veikt aprēķinus, kā arī uzzināt daudzumu
